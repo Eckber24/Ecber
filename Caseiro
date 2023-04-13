@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1, Evento1
+http://103.145.12.195:8080/hls/streama210736/index.m3u8?cst=b037e73eee7d3554a911862dc7037c7f
+#EXTINF:-1, Evento2 
+http://77.247.109.49:8080/hls/streama210310/index.m3u8?cst=b8960b5c628a91a72c08bb970f21581e
